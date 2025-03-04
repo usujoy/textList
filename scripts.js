@@ -73,7 +73,7 @@ const addByEnter = (add, contents, input, display) => {
 
 const listBox = () => {
   const add = document.getElementById("addButton");
-  const contents = new Array();``
+  const contents = new Array();
   const input = document.querySelector("input");
   const display = document.querySelector(".display ol");
 
